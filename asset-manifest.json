@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gabrielpineda808.github.io/static/css/main.fa3767d4.css",
+    "main.js": "/gabrielpineda808.github.io/static/js/main.56ca60f8.js",
+    "index.html": "/gabrielpineda808.github.io/index.html",
+    "main.fa3767d4.css.map": "/gabrielpineda808.github.io/static/css/main.fa3767d4.css.map",
+    "main.56ca60f8.js.map": "/gabrielpineda808.github.io/static/js/main.56ca60f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa3767d4.css",
+    "static/js/main.56ca60f8.js"
+  ]
+}
